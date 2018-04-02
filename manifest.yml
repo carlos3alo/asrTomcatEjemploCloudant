@@ -1,10 +1,10 @@
 ---
 applications:
-- name: asrAGPTomcatEjemploCloudant
+- name: asrTomcatEjemploCloudantCarlosAlonso
   path: target/asrTomcatEjemploCloudant.war
   memory: 256M
   instances: 1
-  host: asrAGPTomcatEjemploCloudant
+  host: asrTomcatEjemploCloudantCarlosAlonso
   domain: eu-gb.mybluemix.net
   services:
-  - Cloudant NoSQL DB-jw
+  - CloudantNOsql DB
