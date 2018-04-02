@@ -7,4 +7,4 @@ applications:
   host: asrTomcatEjemploCloudantCarlosAlonso
   domain: eu-gb.mybluemix.net
   services:
-  - CloudantNOsql DB
+  - CloudantNOsqlCarlos 
