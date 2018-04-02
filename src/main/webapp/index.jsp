@@ -7,17 +7,16 @@
 <title>Proyecto ASR</title>
 </head>
 <body>
-<h1>Ejemplo de Proyecto de Álvaro Gericke con Cloudant ahora con DevOps</h1>
+<h1>Proyecto de Carlos Alonso con Cloudant ahora con DevOps</h1>
 <hr />
-<p>Opciones de la clase de Álvaro Gericke:</p>
 <p style="color:red">Introducido nuevo cambio en la página</p>
 <ul>
 <li><a href="listar">Listar</a></li>
-<li><a href="insertar?palabra=alvaroGericke">Insertar</a></li>
+<li><a href="insertar?palabra=CarlosAlonso">Insertar</a></li>
 <li>
 	<form action="traducir">
 		<input type="text" name="palabraTraducir">
-		<input type="submit" value="Traducir del Inglés al Español">
+		<input type="submit" value="Traducimos Inglés-Español">
 	</form>
 </li>
 </ul>
