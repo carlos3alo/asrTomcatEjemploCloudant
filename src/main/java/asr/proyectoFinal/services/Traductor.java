@@ -14,7 +14,7 @@ public class Traductor {
 	public static String translate(String palabra) { 
 		
 		LanguageTranslator service = new LanguageTranslator(); 
-		service.setUsernameAndPassword("40cdee00-30ea-4501-8feb-900bc9760fa1", "OgFmOePQk6NJ"); 
+		service.setUsernameAndPassword("4c38bd03-e8a7-456a-af9c-eabff7394d01", "4WdeUrrds6DE"); 
 		
 		TranslateOptions translateOptions = new TranslateOptions.Builder() 
 				.addText(palabra) 
