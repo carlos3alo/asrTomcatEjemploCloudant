@@ -18,7 +18,7 @@ public class Traductor {
 		
 		TranslateOptions translateOptions = new TranslateOptions.Builder() 
 				.addText(palabra) 
-				.modelId("en-es") 
+				.modelId("es-en") 
 				.build();
 		
 		TranslationResult translationResult = 
