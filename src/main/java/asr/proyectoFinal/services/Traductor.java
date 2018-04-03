@@ -29,7 +29,7 @@ public class Traductor {
 		JsonParser parser = new JsonParser(); 
 		JsonObject rootObj = parser.parse(traduccionJSON).getAsJsonObject(); 
 		String wordCount = rootObj.get("word_count").getAsString(); 
-		JsonArray traducciones = rootObj.getAsJsonArray("transLATIONS"); 
+		JsonArray traducciones = rootObj.getAsJsonArray("translations"); 
 		String traduccionPrimera = palabra; 
 		
 		if(traducciones.size()>0) 
