@@ -7,7 +7,7 @@
 <title>Proyecto ASR</title>
 </head>
 <body>
-<h1>Proyecto de Carlos Alonso con Cloudant ahora con DevOps</h1>
+<h1>Proyecto de Carlos Alonso ahora con DevOps</h1>
 <hr />
 <p style="color:red">Introducido nuevo cambio en la página</p>
 <ul>
