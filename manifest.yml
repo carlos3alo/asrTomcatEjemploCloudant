@@ -1,6 +1,6 @@
 ---
 applications:
-- name: asrTomcatEjemploCloudant
+- name: asrTomcatEjemploCloudantCarlosAlonso
   path: target/asrTomcatEjemploCloudant.war
   memory: 256M
   instances: 1
